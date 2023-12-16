@@ -24,7 +24,7 @@
 - 🛠️ Craft dynamic user experiences with a focus on performance and usability.
 
 ## 📬 Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/dindarosalin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/m-ariansyah/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white&style=flat-square)]((https://www.linkedin.com/in/m-ariansyah/))
 
 
