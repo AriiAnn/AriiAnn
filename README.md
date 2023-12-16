@@ -13,13 +13,11 @@
 
 ## About Me
 
-- 🎓 Studying Software Engineering to continuously enhance my skills.
-- 💻 Currently working as a Freelancer, crafting innovative solutions.
+- 🎓 Studying Information Systems to continuously enhance my skills.
 - 🌱 Always eager to learn and explore new technologies.
 
 ## What I Do
 
-- 💡 Turn ideas into reality with elegant code and intuitive design.
 - 🌐 Develop responsive and interactive web applications.
 - 🛠️ Craft dynamic user experiences with a focus on performance and usability.
 
